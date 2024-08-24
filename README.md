@@ -31,7 +31,7 @@
 <br/>
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Статистика ⚡</h2>
 <br>
 <div align="center">
   <img width="390" height="150" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=shzanya&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
