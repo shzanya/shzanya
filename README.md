@@ -1,20 +1,20 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+shanya!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=FF0000&lines=Привет+Друг!+;+Я'+Шаня!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Ukraine 🇺🇦</h3>
+<h3 align="center">Страстный разработчик программного обеспечения из Украины. 🇺🇦</h3>
 
 <br/>
 
-<div align="center">
+<div align="center"> 
+    
+☁️ Сейчас я работаю над **Дискорд ботами**
  
-🌊 Сейчас я работаю над **Дискорд ботами**
- 
-🌊 Сейчас я изучаю **javascript, python, TypeScript**
+☁️ Сейчас я изучаю **javascript, python, TypeScript**
 
-🌊 Интересный факт **Плащи Ночного дозора из «Игры престолов» сделаны из ковриков Ikea**
+☁️ Интересный факт **Плащи Ночного дозора из «Игры престолов» сделаны из ковриков Ikea**
 
  </div>
  
