@@ -46,9 +46,5 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://discord.com/api/guilds/1271810039669067776/widget.png?style=banner2" alt="Discord Widget"/>
-</div>
-
 <br/>
 
