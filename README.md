@@ -10,7 +10,6 @@
 <div align="center" style="padding: 10px; background: linear-gradient(to right, #00bfff, #1e90ff, #4682b4); border-radius: 10px; color: white;">
 
 ### ☁️ О себе ☁️
-
  Сейчас я работаю над **Дискорд ботами**  
  Изучаю: **JavaScript**, **Python**, **TypeScript**  
  Интересный факт: **Кошки спят больше половины своей жизни.**
