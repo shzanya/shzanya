@@ -17,7 +17,6 @@
  </div>
 
 
- <hr/>
  
 <h2 align="center">⚒️ Языки-Фреймворки-Инструменты ⚒️</h2>
 <br/>
@@ -27,7 +26,6 @@
 </div>
 
 <br/>
-<hr/>
 
 <h2 align="center">⚡ Статистика ⚡</h2>
 <br>
@@ -40,7 +38,6 @@
 
 <br/><br/>
 
-<hr/>
 <br/>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shzanya&theme=react-dark" alt="GitHub Activity Graph"/>
