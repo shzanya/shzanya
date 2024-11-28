@@ -1,22 +1,25 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=00BFFF&lines=hello+friend!+;+i'm+shanya!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=FFFFFF&lines=hello+friend!+;+i'm+shanya!;" />
 </h1>
 
-<h3 align="center" style="color: white;">Страстный разработчик программного обеспечения из Украины. 🇺🇦</h3>
+<h3 align="center">Страстный разработчик программного обеспечения из Украины. 🇺🇦</h3>
 
 <br/>
 
-<div align="center" style="color: white;"> 
+<div align="center"> 
+    
 ☁️ Сейчас я работаю над **Дискорд ботами**
  
 ☁️ Сейчас я изучаю **javascript, python, TypeScript**
 
 ☁️ Интересный факт **Кошки спят больше половины своей жизни.**
-</div>
 
-<hr/>
+ </div>
 
-<h2 align="center" style="color: white;">⚒️ Языки-Фреймворки-Инструменты ⚒️</h2>
+
+ <hr/>
+ 
+<h2 align="center">⚒️ Языки-Фреймворки-Инструменты ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
@@ -26,7 +29,7 @@
 <br/>
 <hr/>
 
-<h2 align="center" style="color: white;">⚡ Статистика ⚡</h2>
+<h2 align="center">⚡ Статистика ⚡</h2>
 <br>
 <div align="center">
   <img width="390" height="150" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=shzanya&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
@@ -42,4 +45,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shzanya&theme=react-dark" alt="GitHub Activity Graph"/>
 </p>
+<br/>
+
+<br/>
 <br/>
