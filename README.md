@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=FFFFFF&lines=hello+friend!+;+i'm+shanya!;" />
 </h1>
 
-<h3 align="center">Страстный разработчик программного обеспечения из Украины. 🇺🇦</h3>
+<h3 align="center">Страстный разработчик программного обеспечения из Казахстана.</h3>
 
 <br/>
 
