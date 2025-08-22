@@ -2,8 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=FFFFFF&lines=hello+friend!+;+i'm+shanya!;" />
 </h1>
 
-<h3 align="center">Страстный разработчик программного обеспечения из Казахстана.</h3>
-
 <br/>
 
 <div align="center"> 
@@ -15,16 +13,6 @@
 ☁️ Интересный факт **Кошки спят больше половины своей жизни.**
 
  </div>
-
-
- 
-<h2 align="center">⚒️ Языки-Фреймворки-Инструменты ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
-</div>
-
 <br/>
 
 <h2 align="center">⚡ Статистика ⚡</h2>
@@ -46,3 +34,4 @@
 
 <br/>
 <br/>
+
