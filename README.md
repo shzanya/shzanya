@@ -31,12 +31,17 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shzanya&theme=react-dark" alt="GitHub Activity Graph"/>
 </p>
 <br/>
+<h2 align="center">🎮 Мой Disocrd </h2>
+
 <p align="center">
-  <img src="https://dsc-readme.tsuni.dev/api/user/1112669608235782184?width=400">
+  <img src="https://dsc-readme.tsuni.dev/api/user/1112669608235782184?width=400&theme=nitroDark&primaryColor=5865F2&accentColor=99AAB5" alt="Discord Status"/>
 </p>
+
+<div align="center">
 
 <br/>
 <br/>
+
 
 
 
