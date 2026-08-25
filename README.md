@@ -14,45 +14,62 @@
 
 ☁️ **Интересный факт:** Кошки спят больше половины своей жизни – так же, как и мои боты, они максимально эффективны в своей работе!
 
- </div>
+</div>
+
 <br/>
+
 <h2 align="center"> Статистика </h2>
-<br>
+
+<br/>
+
 <div align="center">
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.dark.svg" />
-    <img width="390" height="150" src="./assets/contributions.light.svg" alt="GitHub Contributions" />
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/overview.dark.svg" />
+  <img
+    src="./assets/overview.light.svg"
+    alt="GitHub Overview"
+    width="100%"
+  />
+</picture>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/overview.dark.svg" />
-    <img width="390" height="150" src="./assets/overview.light.svg" alt="GitHub Overview" />
-  </picture>
+<br/><br/>
 
-  <br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/repositories.dark.svg" />
+  <img
+    src="./assets/repositories.light.svg"
+    alt="GitHub Repositories"
+    width="100%"
+  />
+</picture>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/languages.dark.svg" />
-    <img width="100%" src="./assets/languages.light.svg" alt="Programming Languages" />
-  </picture>
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/languages.dark.svg" />
+  <img
+    src="./assets/languages.light.svg"
+    alt="Programming Languages"
+    width="100%"
+  />
+</picture>
 
 </div>
 
-<br/><br/> <br/>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/lifetime.dark.svg" />
-    <img src="./assets/lifetime.light.svg" alt="GitHub Activity" width="100%" />
-  </picture>
-</p>
+<br/><br/>
 
 <br/>
+
 <h2 align="center"> Мой Discord </h2>
+
 <p align="center">
-  <img src="https://dsc-readme.tsuni.dev/api/user/1463172468197036254?theme=custom&colorB1=000000&colorB2=000000&colorB3=000000&colorT1=FFFFFF&colorT2=AAAAAA&width=400" alt="Discord Status"/>
+  <img
+    src="https://dsc-readme.tsuni.dev/api/user/1463172468197036254?theme=custom&colorB1=000000&colorB2=000000&colorB3=000000&colorT1=FFFFFF&colorT2=AAAAAA&width=400"
+    alt="Discord Status"
+  />
 </p>
+
 <div align="center">
 <br/>
 <br/>
