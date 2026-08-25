@@ -21,7 +21,7 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           username: shzanya
-          cards: contributions,overview,languages,lifetime
+          cards: overview,repositories,languages
           output-dir: assets
           themes: light,dark
           commit: true
