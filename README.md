@@ -58,18 +58,4 @@
 </div>
 
 <br/><br/>
-
-<br/>
-
-<h2 align="center"> Мой Discord </h2>
-
-<p align="center">
-  <img
-    src="https://dsc-readme.tsuni.dev/api/user/1463172468197036254?theme=custom&colorB1=000000&colorB2=000000&colorB3=000000&colorT1=FFFFFF&colorT2=AAAAAA&width=400"
-    alt="Discord Status"
-  />
-</p>
-
-<div align="center">
-<br/>
 <br/>
